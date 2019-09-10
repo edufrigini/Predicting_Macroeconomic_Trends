@@ -1,0 +1,2 @@
+# Predicting_Macroeconomic_Trends
+This project deals with a dataset containing anonymous resources related to a time variable value for a financial instrument. Each instrument has an id. Time is represented by the 'timestamp' feature and the variable to predict is 'y'. No additional information will be provided about the meaning of the resources, the transformations that have been applied to them, the timescale or the type of instruments that are included in the data. In addition, according to the rules, students should not use data other than site-linked data.
